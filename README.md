@@ -1,4 +1,4 @@
-# **Twitter Trendiness Score Project**
+# **Twitter Trendiness Score Computation**
 
 The objective of this project is to compute the trendiness scores of specific words and phrases (two consecutive words) appearing in Twitter.
 
